@@ -1,0 +1,3708 @@
+{
+ "RL": {
+  "pasos": 221943,
+  "autopista": true,
+  "P": 104,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 9976
+ },
+ "RLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRL": {
+  "pasos": 221943,
+  "autopista": true,
+  "P": 104,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 9976
+ },
+ "RLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLR": {
+  "pasos": 644148,
+  "autopista": true,
+  "P": 384,
+  "v": [
+   -4,
+   4
+  ],
+  "inicio": 256240
+ },
+ "RRRL": {
+  "pasos": 106424,
+  "autopista": true,
+  "P": 52,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 78
+ },
+ "RLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRL": {
+  "pasos": 139168,
+  "autopista": true,
+  "P": 68,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 102
+ },
+ "RLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRL": {
+  "pasos": 221943,
+  "autopista": true,
+  "P": 104,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 9976
+ },
+ "RLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLL": {
+  "pasos": 155539,
+  "autopista": true,
+  "P": 38,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 98
+ },
+ "RRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRL": {
+  "pasos": 171912,
+  "autopista": true,
+  "P": 84,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 126
+ },
+ "RLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLR": {
+  "pasos": 532567,
+  "autopista": true,
+  "P": 168,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 192626
+ },
+ "RLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRL": {
+  "pasos": 171919,
+  "autopista": true,
+  "P": 42,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 117
+ },
+ "RRLLLRR": {
+  "pasos": 246100,
+  "autopista": true,
+  "P": 120,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 976
+ },
+ "RRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLR": {
+  "pasos": 172032,
+  "autopista": true,
+  "P": 42,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 300
+ },
+ "RRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRLL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLR": {
+  "pasos": 552087,
+  "autopista": true,
+  "P": 268,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 5705
+ },
+ "RRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLL": {
+  "pasos": 188279,
+  "autopista": true,
+  "P": 92,
+  "v": [
+   -2,
+   2
+  ],
+  "inicio": 114
+ },
+ "RRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRL": {
+  "pasos": 204656,
+  "autopista": true,
+  "P": 100,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 150
+ },
+ "RLLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRLL": {
+  "pasos": 372236,
+  "autopista": true,
+  "P": 120,
+  "v": [
+   -2,
+   2
+  ],
+  "inicio": 129215
+ },
+ "RLRLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLRL": {
+  "pasos": 221943,
+  "autopista": true,
+  "P": 104,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 9976
+ },
+ "RLRLRLRR": {
+  "pasos": 183596,
+  "autopista": true,
+  "P": 88,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 4172
+ },
+ "RLRLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRLR": {
+  "pasos": 315060,
+  "autopista": true,
+  "P": 58,
+  "v": [
+   1,
+   1
+  ],
+  "inicio": 79450
+ },
+ "RRLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRRR": {
+  "pasos": 2043179,
+  "autopista": true,
+  "P": 248,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 1543280
+ },
+ "RRLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRR": {
+  "pasos": 991127,
+  "autopista": true,
+  "P": 436,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 109817
+ },
+ "RRLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRLLL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLLR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRRLL": {
+  "pasos": 443599,
+  "autopista": true,
+  "P": 216,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 2832
+ },
+ "RRLRRRLR": {
+  "pasos": 644148,
+  "autopista": true,
+  "P": 384,
+  "v": [
+   -4,
+   4
+  ],
+  "inicio": 256240
+ },
+ "RRLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLR": {
+  "pasos": 204651,
+  "autopista": true,
+  "P": 100,
+  "v": [
+   -2,
+   2
+  ],
+  "inicio": 114
+ },
+ "RRRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRRL": {
+  "pasos": 106424,
+  "autopista": true,
+  "P": 52,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 78
+ },
+ "RRRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLLR": {
+  "pasos": 1136564,
+  "autopista": true,
+  "P": 532,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 55908
+ },
+ "RRRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLLL": {
+  "pasos": 221019,
+  "autopista": true,
+  "P": 108,
+  "v": [
+   -2,
+   2
+  ],
+  "inicio": 130
+ },
+ "RRRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRRL": {
+  "pasos": 237400,
+  "autopista": true,
+  "P": 116,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 174
+ },
+ "RLLLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLLRRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLRLR": {
+  "pasos": 228439,
+  "autopista": true,
+  "P": 108,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 8625
+ },
+ "RLRLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRLRRR": {
+  "pasos": 180471,
+  "autopista": true,
+  "P": 88,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 726
+ },
+ "RLRLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLRLL": {
+  "pasos": 496495,
+  "autopista": true,
+  "P": 476,
+  "v": [
+   4,
+   -4
+  ],
+  "inicio": 11774
+ },
+ "RLRRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RLRRRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRLLR": {
+  "pasos": 252007,
+  "autopista": true,
+  "P": 108,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 32152
+ },
+ "RRLLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLLRRRR": {
+  "pasos": 486075,
+  "autopista": true,
+  "P": 228,
+  "v": [
+   -2,
+   -2
+  ],
+  "inicio": 21232
+ },
+ "RRLLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLRLL": {
+  "pasos": 198563,
+  "autopista": true,
+  "P": 46,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 10832
+ },
+ "RRLLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRLRRL": {
+  "pasos": 1508123,
+  "autopista": true,
+  "P": 148,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 1210284
+ },
+ "RRLLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRLRR": {
+  "pasos": 390759,
+  "autopista": true,
+  "P": 42,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 220183
+ },
+ "RRLLRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRLLLL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLLLR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLLRL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLLRR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRLL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRLR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRRL": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRLRRR": {
+  "pasos": 73680,
+  "autopista": true,
+  "P": 18,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 38
+ },
+ "RRLRRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRLRRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRLRR": {
+  "pasos": 254267,
+  "autopista": true,
+  "P": 248,
+  "v": [
+   -4,
+   4
+  ],
+  "inicio": 954
+ },
+ "RRRLLRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRRLR": {
+  "pasos": 777895,
+  "autopista": true,
+  "P": 928,
+  "v": [
+   6,
+   -6
+  ],
+  "inicio": 151012
+ },
+ "RRRLLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRRLL": {
+  "pasos": 106424,
+  "autopista": true,
+  "P": 52,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 78
+ },
+ "RRRLRRRLR": {
+  "pasos": 106424,
+  "autopista": true,
+  "P": 52,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 78
+ },
+ "RRRLRRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRLRRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLLLL": {
+  "pasos": 253991,
+  "autopista": true,
+  "P": 62,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 521
+ },
+ "RRRRLLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLLRLR": {
+  "pasos": 237387,
+  "autopista": true,
+  "P": 58,
+  "v": [
+   -1,
+   1
+  ],
+  "inicio": 130
+ },
+ "RRRRLLRRL": {
+  "pasos": 2382047,
+  "autopista": true,
+  "P": 520,
+  "v": [
+   -4,
+   -4
+  ],
+  "inicio": 1858343
+ },
+ "RRRRLLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRLRL": {
+  "pasos": 272299,
+  "autopista": true,
+  "P": 66,
+  "v": [
+   1,
+   -1
+  ],
+  "inicio": 2638
+ },
+ "RRRRLRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRRLL": {
+  "pasos": 2604607,
+  "autopista": true,
+  "P": 380,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 1847576
+ },
+ "RRRRLRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRLRRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLLLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLRLL": {
+  "pasos": 783975,
+  "autopista": true,
+  "P": 216,
+  "v": [
+   2,
+   2
+  ],
+  "inicio": 348668
+ },
+ "RRRRRLRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLRRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRLRRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRLLL": {
+  "pasos": 253759,
+  "autopista": true,
+  "P": 124,
+  "v": [
+   -2,
+   2
+  ],
+  "inicio": 146
+ },
+ "RRRRRRLLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRLRL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRLRR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRRLL": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRRLR": {
+  "pasos": 3000000,
+  "autopista": false,
+  "P": null,
+  "v": null,
+  "inicio": null
+ },
+ "RRRRRRRRL": {
+  "pasos": 270144,
+  "autopista": true,
+  "P": 132,
+  "v": [
+   2,
+   -2
+  ],
+  "inicio": 198
+ }
+}

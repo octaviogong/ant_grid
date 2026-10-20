@@ -1,0 +1,210 @@
+
+== Primos · A cociente 1/p · invariante: periodo en base 2
+   n: 124
+   con_autopista: 124
+   T_min: 850
+   T_mediana: 4422
+   T_max: 61727
+   z_media: 0.153
+   p_wilcoxon_z: 0.07081364327239406
+   frac_|z|>2: 0.008
+   rho(periodo2,T): 0.136
+   p_rho: 0.133017191292677
+   rho(periodo2,z): 0.145
+   p_rho_z: 0.10857101904637982
+   direcciones: {'NE': 16, 'NO': 55, 'SE': 32, 'SO': 21}
+
+== Primos · A cociente 1/p · invariante: periodo en base 10
+   n: 124
+   con_autopista: 124
+   T_min: 850
+   T_mediana: 4422
+   T_max: 61727
+   z_media: 0.153
+   p_wilcoxon_z: 0.07081364327239406
+   frac_|z|>2: 0.008
+   rho(periodo10,T): -0.085
+   p_rho: 0.3474401974567784
+   rho(periodo10,z): -0.093
+   p_rho_z: 0.3073847146469358
+   direcciones: {'NE': 16, 'NO': 55, 'SE': 32, 'SO': 21}
+
+== Primos · B residuos 1/p · invariante: periodo en base 2
+   n: 124
+   con_autopista: 124
+   T_min: 975
+   T_mediana: 3680
+   T_max: 26206
+   z_media: -0.105
+   p_wilcoxon_z: 0.10746964334220402
+   frac_|z|>2: 0.0
+   rho(periodo2,T): -0.027
+   p_rho: 0.7655865049240302
+   rho(periodo2,z): -0.108
+   p_rho_z: 0.23166248475832282
+   direcciones: {'NE': 5, 'NO': 29, 'SE': 27, 'SO': 63}
+
+== Primos · B residuos 1/p · invariante: periodo en base 10
+   n: 124
+   con_autopista: 124
+   T_min: 975
+   T_mediana: 3680
+   T_max: 26206
+   z_media: -0.105
+   p_wilcoxon_z: 0.10746964334220402
+   frac_|z|>2: 0.0
+   rho(periodo10,T): -0.043
+   p_rho: 0.636043177379727
+   rho(periodo10,z): -0.094
+   p_rho_z: 0.2990348463056753
+   direcciones: {'NE': 5, 'NO': 29, 'SE': 27, 'SO': 63}
+
+== Primos · C par de vectores (p,q) · invariante: periodo de p/q en base 2
+   n: 300
+   con_autopista: 300
+   T_min: 286
+   T_mediana: 1434
+   T_max: 44165
+   z_media: -0.215
+   p_wilcoxon_z: 0.00023956951020164216
+   frac_|z|>2: 0.024
+   rho(periodo2,T): -0.148
+   p_rho: 0.010171135760197859
+   rho(periodo2,z): -0.197
+   p_rho_z: 0.0006596437165693346
+   direcciones: {'NE': 86, 'NO': 67, 'SE': 75, 'SO': 72}
+[3s]
+
+== Fracciones equivalentes k=2: {'rho_equivalente': 0.067, 'p_equiv': 0.24756183561462788, 'rho_control': -0.02, 'p_ctrl': 0.7323094716016819, 'T_identico': 0, 'pares': 300}
+
+== Fracciones equivalentes k=3: {'rho_equivalente': -0.024, 'p_equiv': 0.6832825201369207, 'rho_control': 0.041, 'p_ctrl': 0.4792905311848871, 'T_identico': 0, 'pares': 300}
+
+== Fracciones equivalentes k=5: {'rho_equivalente': 0.058, 'p_equiv': 0.3177579910894772, 'rho_control': 0.03, 'p_ctrl': 0.6053248536716762, 'T_identico': 0, 'pares': 300}
+
+== Punto de lectura, cinta 1/7: {'corridas': 512, 'T_min': 326, 'T_mediana': 4368, 'T_max': 42578, 'distintos': 225}
+
+== Punto de lectura, cinta 1/97: {'corridas': 512, 'T_min': 377, 'T_mediana': 3194, 'T_max': 100230, 'distintos': 326}
+
+== Punto de lectura, cinta 1/691: {'corridas': 512, 'T_min': 324, 'T_mediana': 3916, 'T_max': 86338, 'distintos': 499}
+[3s]
+
+== Series racionales 1/Q(x) mod 2 · invariante: periodo
+   n: 255
+   con_autopista: 255
+   T_min: 345
+   T_mediana: 4325
+   T_max: 60172
+   z_media: 0.044
+   p_wilcoxon_z: 0.43498216227598885
+   frac_|z|>2: 0.075
+   rho(periodo2,T): 0.02
+   p_rho: 0.7476581723319274
+   rho(periodo2,z): 0.03
+   p_rho_z: 0.6344578715588386
+   direcciones: {'NE': 59, 'NO': 76, 'SE': 55, 'SO': 65}
+
+== Series · algebraica (automática)
+   n: 140
+   con_autopista: 140
+   T_min: 705
+   T_mediana: 5366
+   T_max: 33654
+   z_media: -0.104
+   p_wilcoxon_z: 0.9883827858528227
+   frac_|z|>2: 0.057
+   direcciones: {'NE': 26, 'NO': 28, 'SE': 35, 'SO': 51}
+
+== Series · dígitos de irracional
+   n: 120
+   con_autopista: 120
+   T_min: 405
+   T_mediana: 4640
+   T_max: 57117
+   z_media: 0.139
+   p_wilcoxon_z: 0.09789822640561212
+   frac_|z|>2: 0.05
+   direcciones: {'NE': 25, 'NO': 39, 'SE': 30, 'SO': 26}
+
+== Series · control aleatorio
+   n: 120
+   con_autopista: 120
+   T_min: 373
+   T_mediana: 3923
+   T_max: 71175
+   z_media: 0.004
+   p_wilcoxon_z: 0.8535186683994191
+   frac_|z|>2: 0.058
+   direcciones: {'NE': 20, 'NO': 33, 'SE': 37, 'SO': 30}
+
+== Kruskal-Wallis entre niveles (periódica/automática/irracional/azar): z p=0.513  log T p=0.162
+   medianas de z por nivel: [0.124, 0.194, 0.249, 0.042]
+   medianas de T por nivel: [4326, 5366, 4641, 3923]
+[6s]
+
+== Potencias b^n (16 filas) · invariante: b
+   n: 38
+   con_autopista: 38
+   T_min: 695
+   T_mediana: 5378
+   T_max: 22998
+   z_media: 0.035
+   p_wilcoxon_z: 0.5865498691689189
+   frac_|z|>2: 0.0
+   rho(base,T): -0.221
+   p_rho: 0.182121989255174
+   rho(base,z): -0.229
+   p_rho_z: 0.16745471645523485
+   direcciones: {'NE': 10, 'NO': 10, 'SE': 9, 'SO': 9}
+
+== Pascal mod 2 = n!/(k!(n-k)!) mod 2 · invariante: filas
+   n: 63
+   con_autopista: 63
+   T_min: 293
+   T_mediana: 2906
+   T_max: 43054
+   z_media: -0.412
+   p_wilcoxon_z: 0.013995412295784633
+   frac_|z|>2: 0.113
+   rho(filas,T): 0.3
+   p_rho: 0.01695154826842423
+   rho(filas,z): 0.123
+   p_rho_z: 0.34063245421625343
+   direcciones: {'NE': 9, 'NO': 4, 'SE': 34, 'SO': 16}
+   filas = potencia de 2 (triángulo de Sierpinski completo): [(2, 19372), (4, 1889), (8, 1445), (16, 15844), (32, 6900), (64, 24681)]
+
+== Factoriales n! apilados · invariante: N
+   n: 38
+   con_autopista: 38
+   T_min: 342
+   T_mediana: 6352
+   T_max: 44171
+   z_media: 0.233
+   p_wilcoxon_z: 0.1048371397118899
+   frac_|z|>2: 0.026
+   rho(filas,T): 0.281
+   p_rho: 0.08744762294457109
+   rho(filas,z): 0.001
+   p_rho_z: 0.9932373725846059
+   direcciones: {'NE': 8, 'NO': 9, 'SE': 11, 'SO': 10}
+
+== División 1/n! · invariante: log10 del periodo en base 2
+   n: 43
+   con_autopista: 43
+   T_min: 345
+   T_mediana: 5380
+   T_max: 38967
+   z_media: 0.122
+   p_wilcoxon_z: 0.39169431011418965
+   frac_|z|>2: 0.14
+   rho(log10_periodo2,T): 0.032
+   p_rho: 0.8383780051205454
+   rho(log10_periodo2,z): 0.039
+   p_rho_z: 0.8024753139649607
+   direcciones: {'NE': 13, 'NO': 10, 'SE': 10, 'SO': 10}
+
+== GLOBAL: instancias=1365  con autopista futura=1365  con autopista pasada=1365
+   rho(T_futuro, T_pasado) = 0.159  p=3.83e-09
+   z global: media=-0.040  frac |z|>2 = 0.046  (esperado ≈0.05)
+   rho(densidad, T) = -0.235  p=1.31e-18
+   fallos de sustitutos sin autopista: 0
+[8s]

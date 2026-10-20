@@ -1,0 +1,17 @@
+par_z_extremos_fijos: {'n': 294, 'z_media': -0.138, 'p_wilcoxon': 0.009078324407917511, 'frac_abs_z_2': 0.017}
+par_rho_periodo_z: {'rho': -0.171, 'p': 0.0033211552472845306}
+par_rho_periodo_T_dentro_de_longitud_de_q: {'rho': -0.13675352266923285, 'p': 0.0210626373955035}
+par_rho_(periodo/(q-1))_T: {'rho': -0.195, 'p': 0.0007871814076400619}
+par_primos_vs_impares_al_azar: {'T_mediana_primos': 1476, 'T_mediana_impares': 2036, 'p_mannwhitney': 0.043814403132224754}
+impares_al_azar_rho_periodo_T: {'rho': 0.024, 'p': 0.40851372441372785, 'n': 1200}
+impares_al_azar_rho_periodo_T_dentro_de_longitud: {'rho': -0.03805711274523532, 'p': 0.18995759481269503}
+pascal_z_bordes_fijos: {'n': 61, 'z_media': -0.371, 'p_wilcoxon': 0.016599720668507758, 'frac_abs_z_2': 0.066}
+raiz_primitiva_A cociente 1/p: {'n_prim': 51, 'n_no': 73, 'T_med_prim': 5012, 'T_med_no': 3590, 'p': 0.020032158920674517}
+periodo_normalizado_A cociente 1/p: {'rho': 0.16, 'p': 0.076494057931098}
+raiz_primitiva_B residuos 1/p: {'n_prim': 51, 'n_no': 73, 'T_med_prim': 3687, 'T_med_no': 3629, 'p': 0.8789182605619842}
+periodo_normalizado_B residuos 1/p: {'rho': 0.032, 'p': 0.7215170962544007}
+futuro_vs_pasado: {'rho_cruda': 0.159, 'rho_controlando_tamano_densidad': 0.097, 'p': 0.0003104330306996128, 'frac_direcciones_opuestas': 0.259}
+direccion_par_real_vs_sustitutos: {'real': {'NE': 83, 'NO': 65, 'SE': 74, 'SO': 72}, 'esperado': {'NE': np.float64(76.5), 'NO': np.float64(64.4), 'SE': np.float64(71.6), 'SO': np.float64(81.6)}, 'p_chi2': 0.6207369721261815}
+invariante_paridad_200k_pasos: True
+negras_netas_por_periodo_de_autopista: [12]
+Pascal (filas, T, z con bordes fijos): [(4, 1889, np.float64(-1.35)), (5, 293, np.float64(-1.66)), (6, 21245, np.float64(1.63)), (7, 768, np.float64(-0.64)), (8, 1445, np.float64(-0.56)), (9, 349, np.float64(-1.59)), (10, 464, np.float64(-1.53)), (11, 11763, np.float64(1.41)), (12, 3919, np.float64(0.21)), (13, 405, np.float64(-1.64)), (14, 5869, np.float64(0.78)), (15, 6722, np.float64(0.91))] ...

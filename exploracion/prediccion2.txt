@@ -1,0 +1,2 @@
+m=11: 15/15 aciertos (n con autopista: 15); fallos=[]
+m=13: 12/14 aciertos (n con autopista: 14); fallos=[(11, 5352, 364), (12, 996, 380)]

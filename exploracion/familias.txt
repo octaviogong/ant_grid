@@ -1,0 +1,68 @@
+Familia R^nL:
+   n= 1 RL                     periodo= 104  desplazamiento=(-2, -2)  caos=9976
+   n= 2 RRL                    periodo=  36  desplazamiento=(2, -2)  caos=38
+   n= 3 RRRL                   periodo=  52  desplazamiento=(2, -2)  caos=78
+   n= 4 RRRRL                  periodo=  68  desplazamiento=(2, -2)  caos=102
+   n= 5 RRRRRL                 periodo=  84  desplazamiento=(2, -2)  caos=126
+   n= 6 RRRRRRL                periodo= 100  desplazamiento=(2, -2)  caos=150
+   n= 7 RRRRRRRL               periodo= 116  desplazamiento=(2, -2)  caos=174
+   n= 8 RRRRRRRRL              periodo= 132  desplazamiento=(2, -2)  caos=198
+   n= 9 RRRRRRRRRL             periodo= 148  desplazamiento=(2, -2)  caos=222
+   n=10 RRRRRRRRRRL            periodo= 164  desplazamiento=(2, -2)  caos=246
+   n=11 RRRRRRRRRRRL           periodo= 180  desplazamiento=(2, -2)  caos=270
+   n=12 RRRRRRRRRRRRL          periodo= 196  desplazamiento=(2, -2)  caos=294
+   n=13 RRRRRRRRRRRRRL         periodo= 212  desplazamiento=(2, -2)  caos=318
+   n=14 RRRRRRRRRRRRRRL        periodo= 228  desplazamiento=(2, -2)  caos=342
+   n=15 RRRRRRRRRRRRRRRL       periodo= 244  desplazamiento=(2, -2)  caos=366
+   n=16 RRRRRRRRRRRRRRRRL      periodo= 260  desplazamiento=(2, -2)  caos=390
+Familia R^nLLL:
+   n= 1 RLLL                   sin autopista en 3M pasos
+   n= 2 RRLLL                  sin autopista en 3M pasos
+   n= 3 RRRLLL                 periodo=  76  desplazamiento=(-2, 2)  caos=98
+   n= 4 RRRRLLL                periodo=  92  desplazamiento=(-2, 2)  caos=114
+   n= 5 RRRRRLLL               periodo= 108  desplazamiento=(-2, 2)  caos=130
+   n= 6 RRRRRRLLL              periodo= 124  desplazamiento=(-2, 2)  caos=146
+   n= 7 RRRRRRRLLL             periodo= 140  desplazamiento=(-2, 2)  caos=162
+   n= 8 RRRRRRRRLLL            periodo= 156  desplazamiento=(-2, 2)  caos=178
+   n= 9 RRRRRRRRRLLL           periodo= 172  desplazamiento=(-2, 2)  caos=194
+   n=10 RRRRRRRRRRLLL          periodo= 188  desplazamiento=(-2, 2)  caos=210
+   n=11 RRRRRRRRRRRLLL         periodo= 204  desplazamiento=(-2, 2)  caos=226
+   n=12 RRRRRRRRRRRRLLL        periodo= 220  desplazamiento=(-2, 2)  caos=242
+   n=13 RRRRRRRRRRRRRLLL       periodo= 236  desplazamiento=(-2, 2)  caos=258
+   n=14 RRRRRRRRRRRRRRLLL      periodo= 252  desplazamiento=(-2, 2)  caos=274
+   n=15 RRRRRRRRRRRRRRRLLL     periodo= 268  desplazamiento=(-2, 2)  caos=290
+   n=16 RRRRRRRRRRRRRRRRLLL    periodo= 284  desplazamiento=(-2, 2)  caos=306
+Familia R^nLLLLL:
+   n= 1 RLLLLL                 sin autopista en 3M pasos
+   n= 2 RRLLLLL                sin autopista en 3M pasos
+   n= 3 RRRLLLLL               sin autopista en 3M pasos
+   n= 4 RRRRLLLLL              periodo= 124  desplazamiento=(-2, 2)  caos=521
+   n= 5 RRRRRLLLLL             periodo= 140  desplazamiento=(-2, 2)  caos=178
+   n= 6 RRRRRRLLLLL            periodo= 156  desplazamiento=(-2, 2)  caos=194
+   n= 7 RRRRRRRLLLLL           periodo= 172  desplazamiento=(-2, 2)  caos=210
+   n= 8 RRRRRRRRLLLLL          periodo= 188  desplazamiento=(-2, 2)  caos=226
+   n= 9 RRRRRRRRRLLLLL         periodo= 204  desplazamiento=(-2, 2)  caos=242
+   n=10 RRRRRRRRRRLLLLL        periodo= 220  desplazamiento=(-2, 2)  caos=258
+   n=11 RRRRRRRRRRRLLLLL       periodo= 236  desplazamiento=(-2, 2)  caos=274
+   n=12 RRRRRRRRRRRRLLLLL      periodo= 252  desplazamiento=(-2, 2)  caos=290
+   n=13 RRRRRRRRRRRRRLLLLL     periodo= 268  desplazamiento=(-2, 2)  caos=306
+   n=14 RRRRRRRRRRRRRRLLLLL    periodo= 284  desplazamiento=(-2, 2)  caos=322
+   n=15 RRRRRRRRRRRRRRRLLLLL   periodo= 300  desplazamiento=(-2, 2)  caos=338
+   n=16 RRRRRRRRRRRRRRRRLLLLL  periodo= 316  desplazamiento=(-2, 2)  caos=354
+Familia R^nLL:
+   n= 1 RLL                    sin autopista en 3M pasos
+   n= 2 RRLL                   sin autopista en 3M pasos
+   n= 3 RRRLL                  sin autopista en 3M pasos
+   n= 4 RRRRLL                 sin autopista en 3M pasos
+   n= 5 RRRRRLL                sin autopista en 3M pasos
+   n= 6 RRRRRRLL               sin autopista en 3M pasos
+   n= 7 RRRRRRRLL              sin autopista en 3M pasos
+   n= 8 RRRRRRRRLL             sin autopista en 3M pasos
+   n= 9 RRRRRRRRRLL            sin autopista en 3M pasos
+   n=10 RRRRRRRRRRLL           sin autopista en 3M pasos
+   n=11 RRRRRRRRRRRLL          sin autopista en 3M pasos
+   n=12 RRRRRRRRRRRRLL         sin autopista en 3M pasos
+   n=13 RRRRRRRRRRRRRLL        sin autopista en 3M pasos
+   n=14 RRRRRRRRRRRRRRLL       sin autopista en 3M pasos
+   n=15 RRRRRRRRRRRRRRRLL      sin autopista en 3M pasos
+   n=16 RRRRRRRRRRRRRRRRLL     sin autopista en 3M pasos

@@ -1,0 +1,21 @@
+# Lean
+lean/.lake/
+lean/build/
+*.olean
+*.ilean
+
+# Python / C
+__pycache__/
+*.pyc
+*.so
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Otros
+*.zip
+.DS_Store
+articulo/

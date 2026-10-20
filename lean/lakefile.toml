@@ -1,0 +1,5 @@
+name = "hormiga"
+defaultTargets = ["Hormiga"]
+
+[[lean_lib]]
+name = "Hormiga"

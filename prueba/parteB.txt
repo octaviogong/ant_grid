@@ -1,0 +1,11 @@
+Parte B (desde blanco), m >= 5 → piezas: 10 {'PERIODO DISTINTO': 2, 'ok': 8}
+   PERIODO DISTINTO  n=2t+4           j=1t+2       P=2                deriva=(1, -1) inicio<=116t+219  <<
+   PERIODO DISTINTO  n=3s+6           j=1s+2       P=40s+78           deriva=(-1, 1) inicio<=104s+209  <<
+   ok                n=3s+1t+7        j=1s+2       P=80s+16t+172      deriva=(-2, 2) inicio<=104s+16t+225
+   ok                n=5              j=2          P=140              deriva=(-2, 2) inicio<=189
+   ok                n=5s+10          j=2s+4       P=144s+284         deriva=(-2, 2) inicio<=192s+385
+   ok                n=5s+3t+8        j=2s+1t+3    P=144s+80t+220     deriva=(-2, 2) inicio<=192s+104t+297
+   ok                n=6t+7           j=3t+3       P=192t+204         deriva=(-2, 2) inicio<=264t+281
+   ok                n=6t+9           j=3t+4       P=192t+268         deriva=(-2, 2) inicio<=264t+369
+   ok                n=6t+11          j=3t+5       P=192t+332         deriva=(-2, 2) inicio<=264t+457
+   ok                n=5s+2t+12       j=2s+1t+5    P=144s+64t+348     deriva=(-2, 2) inicio<=192s+88t+473

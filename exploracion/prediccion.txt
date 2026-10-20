@@ -1,0 +1,32 @@
+m=7 n= 6  observado= 188  predicho= 196  ✗
+m=7 n= 7  observado= 204  predicho= 212  ✗
+m=7 n= 8  observado= 220  predicho= 228  ✗
+m=7 n= 9  observado= 236  predicho= 244  ✗
+m=7 n=10  observado= 252  predicho= 260  ✗
+m=7 n=11  observado= 268  predicho= 276  ✗
+m=7 n=12  observado= 284  predicho= 292  ✗
+m=7 n=13  observado= 300  predicho= 308  ✗
+m=7 n=14  observado= 316  predicho= 324  ✗
+m=7 n=15  observado= 332  predicho= 340  ✗
+m=7 n=16  observado= 348  predicho= 356  ✗
+m=7 n=17  observado= 364  predicho= 372  ✗
+m=7 n=18  observado= 380  predicho= 388  ✗
+m=7 n=19  observado= 396  predicho= 404  ✗
+m=7 n=20  observado= 412  predicho= 420  ✗
+m=7: 0/15 aciertos
+
+m=9 n= 8  observado= 252  predicho= 276  ✗
+m=9 n= 9  observado= 268  predicho= 292  ✗
+m=9 n=10  observado= 284  predicho= 308  ✗
+m=9 n=11  observado= 300  predicho= 324  ✗
+m=9 n=12  observado= 316  predicho= 340  ✗
+m=9 n=13  observado= 332  predicho= 356  ✗
+m=9 n=14  observado= 348  predicho= 372  ✗
+m=9 n=15  observado= 364  predicho= 388  ✗
+m=9 n=16  observado= 380  predicho= 404  ✗
+m=9 n=17  observado= 396  predicho= 420  ✗
+m=9 n=18  observado= 412  predicho= 436  ✗
+m=9 n=19  observado= 428  predicho= 452  ✗
+m=9 n=20  observado= 444  predicho= 468  ✗
+m=9: 0/13 aciertos
+

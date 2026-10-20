@@ -1,0 +1,3794 @@
+{
+"RL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RLRL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RRLR": {
+"P": 384,
+"v": [
+-4,
+4
+],
+"inicio": 256240
+},
+"RRRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRL": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RLRLRL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RRLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRRLLL": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRRRL": {
+"P": 84,
+"v": [
+2,
+-2
+],
+"inicio": 126
+},
+"RLRRLLR": {
+"P": 168,
+"v": [
+-2,
+-2
+],
+"inicio": 192626
+},
+"RRLLLRL": {
+"P": 42,
+"v": [
+-1,
+1
+],
+"inicio": 117
+},
+"RRLLLRR": {
+"P": 120,
+"v": [
+2,
+-2
+],
+"inicio": 976
+},
+"RRLLRLR": {
+"P": 42,
+"v": [
+1,
+-1
+],
+"inicio": 300
+},
+"RRLRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRRLLLR": {
+"P": 268,
+"v": [
+2,
+2
+],
+"inicio": 5705
+},
+"RRRRLLL": {
+"P": 92,
+"v": [
+-2,
+2
+],
+"inicio": 114
+},
+"RRRRRRL": {
+"P": 100,
+"v": [
+2,
+-2
+],
+"inicio": 150
+},
+"RLRLLRLL": {
+"P": 120,
+"v": [
+-2,
+2
+],
+"inicio": 129215
+},
+"RLRLRLRL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RLRLRLRR": {
+"P": 88,
+"v": [
+2,
+-2
+],
+"inicio": 4172
+},
+"RRLLLRLR": {
+"P": 58,
+"v": [
+1,
+1
+],
+"inicio": 79450
+},
+"RRLLLRRR": {
+"P": 248,
+"v": [
+-2,
+-2
+],
+"inicio": 1543280
+},
+"RRLRLLRR": {
+"P": 436,
+"v": [
+2,
+2
+],
+"inicio": 109817
+},
+"RRLRRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRRLL": {
+"P": 216,
+"v": [
+-2,
+-2
+],
+"inicio": 2832
+},
+"RRLRRRLR": {
+"P": 384,
+"v": [
+-4,
+4
+],
+"inicio": 256240
+},
+"RRRLLRLR": {
+"P": 100,
+"v": [
+-2,
+2
+],
+"inicio": 114
+},
+"RRRLRRRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRLLLR": {
+"P": 532,
+"v": [
+2,
+2
+],
+"inicio": 55908
+},
+"RRRRRLLL": {
+"P": 108,
+"v": [
+-2,
+2
+],
+"inicio": 130
+},
+"RRRRRRRL": {
+"P": 116,
+"v": [
+2,
+-2
+],
+"inicio": 174
+},
+"RLRLRLRLR": {
+"P": 108,
+"v": [
+-2,
+-2
+],
+"inicio": 8625
+},
+"RLRLRLRRR": {
+"P": 88,
+"v": [
+2,
+-2
+],
+"inicio": 726
+},
+"RLRRRLRLL": {
+"P": 476,
+"v": [
+4,
+-4
+],
+"inicio": 11774
+},
+"RRLLLRLLR": {
+"P": 108,
+"v": [
+2,
+2
+],
+"inicio": 32152
+},
+"RRLLLRRRR": {
+"P": 228,
+"v": [
+-2,
+-2
+],
+"inicio": 21232
+},
+"RRLLRLRLL": {
+"P": 46,
+"v": [
+-1,
+1
+],
+"inicio": 10832
+},
+"RRLLRLRRL": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 1210284
+},
+"RRLLRRLRR": {
+"P": 42,
+"v": [
+-1,
+1
+],
+"inicio": 220183
+},
+"RRLRRLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRRLLRLRR": {
+"P": 248,
+"v": [
+-4,
+4
+],
+"inicio": 954
+},
+"RRRLLRRLR": {
+"P": 928,
+"v": [
+6,
+-6
+],
+"inicio": 151012
+},
+"RRRLRRRLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRLLLLL": {
+"P": 62,
+"v": [
+-1,
+1
+],
+"inicio": 521
+},
+"RRRRLLRLR": {
+"P": 58,
+"v": [
+-1,
+1
+],
+"inicio": 130
+},
+"RRRRLLRRL": {
+"P": 520,
+"v": [
+-4,
+-4
+],
+"inicio": 1858343
+},
+"RRRRLRLRL": {
+"P": 66,
+"v": [
+1,
+-1
+],
+"inicio": 2638
+},
+"RRRRLRRLL": {
+"P": 380,
+"v": [
+2,
+2
+],
+"inicio": 1847576
+},
+"RRRRRLRLL": {
+"P": 216,
+"v": [
+2,
+2
+],
+"inicio": 348668
+},
+"RRRRRRLLL": {
+"P": 124,
+"v": [
+-2,
+2
+],
+"inicio": 146
+},
+"RRRRRRRRL": {
+"P": 132,
+"v": [
+2,
+-2
+],
+"inicio": 198
+},
+"RLLLLRLLLR": {
+"P": 240,
+"v": [
+-2,
+2
+],
+"inicio": 22127
+},
+"RLRLLLRLLR": {
+"P": 528,
+"v": [
+4,
+-4
+],
+"inicio": 1568689
+},
+"RLRLLRLLRL": {
+"P": 128,
+"v": [
+2,
+2
+],
+"inicio": 67469
+},
+"RLRLLRLLRR": {
+"P": 100,
+"v": [
+-2,
+-2
+],
+"inicio": 922
+},
+"RLRLLRLRLR": {
+"P": 128,
+"v": [
+2,
+-2
+],
+"inicio": 25516
+},
+"RLRLLRRRLL": {
+"P": 288,
+"v": [
+-4,
+4
+],
+"inicio": 37616
+},
+"RLRLRLLRLL": {
+"P": 320,
+"v": [
+4,
+4
+],
+"inicio": 56062
+},
+"RLRLRLLRLR": {
+"P": 138,
+"v": [
+-3,
+-1
+],
+"inicio": 1294
+},
+"RLRLRLRLRL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RLRLRLRRRL": {
+"P": 88,
+"v": [
+-2,
+2
+],
+"inicio": 1764
+},
+"RLRLRLRRRR": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 8584
+},
+"RLRRLLRRLR": {
+"P": 168,
+"v": [
+2,
+-2
+],
+"inicio": 677341
+},
+"RLRRLLRRRL": {
+"P": 184,
+"v": [
+-2,
+-2
+],
+"inicio": 157410
+},
+"RRLLLRLRLL": {
+"P": 88,
+"v": [
+2,
+-2
+],
+"inicio": 1047
+},
+"RRLLLRRLLR": {
+"P": 168,
+"v": [
+-2,
+2
+],
+"inicio": 13235
+},
+"RRLLLRRRRR": {
+"P": 232,
+"v": [
+2,
+-2
+],
+"inicio": 3831
+},
+"RRLLRLRLLR": {
+"P": 46,
+"v": [
+1,
+-1
+],
+"inicio": 24602
+},
+"RRLLRLRRRL": {
+"P": 42,
+"v": [
+1,
+1
+],
+"inicio": 981
+},
+"RRLRLLRLRR": {
+"P": 936,
+"v": [
+2,
+2
+],
+"inicio": 232645
+},
+"RRLRLLRRRL": {
+"P": 260,
+"v": [
+2,
+2
+],
+"inicio": 1066099
+},
+"RRLRLLRRRR": {
+"P": 1252,
+"v": [
+-4,
+4
+],
+"inicio": 87825
+},
+"RRLRRLLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRRLLLR": {
+"P": 244,
+"v": [
+2,
+2
+],
+"inicio": 503301
+},
+"RRRLLLRRLL": {
+"P": 3596,
+"v": [
+12,
+12
+],
+"inicio": 876009
+},
+"RRRLLLRRRL": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLRRLRR": {
+"P": 58,
+"v": [
+-1,
+-1
+],
+"inicio": 431
+},
+"RRRLRLLLLR": {
+"P": 168,
+"v": [
+2,
+-2
+],
+"inicio": 163365
+},
+"RRRLRLLRLL": {
+"P": 274,
+"v": [
+-3,
+-3
+],
+"inicio": 69377
+},
+"RRRLRRRLLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRLLLLLR": {
+"P": 816,
+"v": [
+-6,
+6
+],
+"inicio": 208518
+},
+"RRRRLLLLRL": {
+"P": 290,
+"v": [
+-3,
+3
+],
+"inicio": 621
+},
+"RRRRLLLRRR": {
+"P": 604,
+"v": [
+-2,
+2
+],
+"inicio": 1074002
+},
+"RRRRLLRLLL": {
+"P": 86,
+"v": [
+-1,
+1
+],
+"inicio": 8872
+},
+"RRRRLLRLRR": {
+"P": 252,
+"v": [
+2,
+-2
+],
+"inicio": 8584
+},
+"RRRRLRLLRR": {
+"P": 384,
+"v": [
+2,
+-2
+],
+"inicio": 13004
+},
+"RRRRLRRRRL": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRRLLLLL": {
+"P": 140,
+"v": [
+-2,
+2
+],
+"inicio": 178
+},
+"RRRRRLLLRR": {
+"P": 128,
+"v": [
+-2,
+-2
+],
+"inicio": 23023
+},
+"RRRRRLLRLR": {
+"P": 132,
+"v": [
+-2,
+2
+],
+"inicio": 146
+},
+"RRRRRLRLRL": {
+"P": 148,
+"v": [
+-2,
+2
+],
+"inicio": 174
+},
+"RRRRRRRLLL": {
+"P": 140,
+"v": [
+-2,
+2
+],
+"inicio": 162
+},
+"RRRRRRRRRL": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 222
+},
+"RLLLRLLRRRL": {
+"P": 298,
+"v": [
+3,
+3
+],
+"inicio": 647355
+},
+"RLRLLLLRLLR": {
+"P": 140,
+"v": [
+-2,
+-2
+],
+"inicio": 3236
+},
+"RLRLLLRLLRL": {
+"P": 156,
+"v": [
+2,
+-2
+],
+"inicio": 2499455
+},
+"RLRLLRLLRLR": {
+"P": 192,
+"v": [
+2,
+2
+],
+"inicio": 232551
+},
+"RLRLLRLLRRR": {
+"P": 100,
+"v": [
+2,
+-2
+],
+"inicio": 779
+},
+"RLRLLRLRLRL": {
+"P": 420,
+"v": [
+-4,
+-4
+],
+"inicio": 56572
+},
+"RLRLLRRRLLR": {
+"P": 116,
+"v": [
+2,
+2
+],
+"inicio": 1336
+},
+"RLRLLRRRRLL": {
+"P": 172,
+"v": [
+-2,
+-2
+],
+"inicio": 7414
+},
+"RLRLRLLLRRL": {
+"P": 490,
+"v": [
+-3,
+5
+],
+"inicio": 501649
+},
+"RLRLRLLRLLL": {
+"P": 192,
+"v": [
+-2,
+2
+],
+"inicio": 677197
+},
+"RLRLRLRLRLL": {
+"P": 104,
+"v": [
+-2,
+2
+],
+"inicio": 891
+},
+"RLRLRLRLRLR": {
+"P": 104,
+"v": [
+2,
+-2
+],
+"inicio": 770
+},
+"RLRLRLRLRRL": {
+"P": 108,
+"v": [
+-2,
+2
+],
+"inicio": 7534
+},
+"RLRLRLRRRLL": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 8750
+},
+"RLRLRLRRRLR": {
+"P": 88,
+"v": [
+-2,
+-2
+],
+"inicio": 4071
+},
+"RLRLRLRRRRL": {
+"P": 88,
+"v": [
+-2,
+2
+],
+"inicio": 3231
+},
+"RLRLRLRRRRR": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 2753
+},
+"RLRRLLRRLRR": {
+"P": 168,
+"v": [
+2,
+2
+],
+"inicio": 1382
+},
+"RLRRLRLLRRL": {
+"P": 172,
+"v": [
+-2,
+-2
+],
+"inicio": 4712
+},
+"RLRRLRLLRRR": {
+"P": 256,
+"v": [
+2,
+2
+],
+"inicio": 2211214
+},
+"RRLLLRLLLLR": {
+"P": 140,
+"v": [
+-2,
+-2
+],
+"inicio": 19638
+},
+"RRLLLRLLRRR": {
+"P": 156,
+"v": [
+2,
+-2
+],
+"inicio": 76835
+},
+"RRLLLRLRLLL": {
+"P": 38,
+"v": [
+1,
+-1
+],
+"inicio": 1367
+},
+"RRLLLRLRRLL": {
+"P": 394,
+"v": [
+-7,
+7
+],
+"inicio": 158
+},
+"RRLLLRLRRLR": {
+"P": 338,
+"v": [
+7,
+7
+],
+"inicio": 563
+},
+"RRLLLRLRRRL": {
+"P": 3178,
+"v": [
+15,
+15
+],
+"inicio": 625973
+},
+"RRLLLRRRLLR": {
+"P": 288,
+"v": [
+-2,
+2
+],
+"inicio": 39594
+},
+"RRLLLRRRRLL": {
+"P": 448,
+"v": [
+-2,
+-2
+],
+"inicio": 11354
+},
+"RRLLLRRRRLR": {
+"P": 300,
+"v": [
+2,
+-2
+],
+"inicio": 2266377
+},
+"RRLLLRRRRRL": {
+"P": 360,
+"v": [
+2,
+2
+],
+"inicio": 1676276
+},
+"RRLLLRRRRRR": {
+"P": 252,
+"v": [
+2,
+-2
+],
+"inicio": 4168
+},
+"RRLLRLLRLRL": {
+"P": 108,
+"v": [
+0,
+2
+],
+"inicio": 1636890
+},
+"RRLLRLRLLRL": {
+"P": 108,
+"v": [
+2,
+2
+],
+"inicio": 344
+},
+"RRLLRLRLLRR": {
+"P": 46,
+"v": [
+-1,
+1
+],
+"inicio": 12246
+},
+"RRLLRLRLRLR": {
+"P": 180,
+"v": [
+2,
+-2
+],
+"inicio": 1457417
+},
+"RRLLRLRRRLL": {
+"P": 42,
+"v": [
+1,
+-1
+],
+"inicio": 336
+},
+"RRLLRLRRRLR": {
+"P": 42,
+"v": [
+-1,
+-1
+],
+"inicio": 4701
+},
+"RRLLRRLLRLR": {
+"P": 168,
+"v": [
+2,
+2
+],
+"inicio": 2779371
+},
+"RRLLRRLRRRL": {
+"P": 46,
+"v": [
+-1,
+-1
+],
+"inicio": 911
+},
+"RRLLRRRLRLL": {
+"P": 62,
+"v": [
+1,
+1
+],
+"inicio": 547470
+},
+"RRLLRRRLRRR": {
+"P": 78,
+"v": [
+1,
+1
+],
+"inicio": 407339
+},
+"RRLRLLRLRRR": {
+"P": 400,
+"v": [
+2,
+2
+],
+"inicio": 811197
+},
+"RRLRLLRRRLL": {
+"P": 232,
+"v": [
+2,
+-2
+],
+"inicio": 34387
+},
+"RRLRLLRRRLR": {
+"P": 168,
+"v": [
+-2,
+2
+],
+"inicio": 417982
+},
+"RRLRLLRRRRL": {
+"P": 168,
+"v": [
+2,
+-2
+],
+"inicio": 668783
+},
+"RRLRLRRLLRR": {
+"P": 880,
+"v": [
+2,
+2
+],
+"inicio": 66845
+},
+"RRLRLRRLRRR": {
+"P": 180,
+"v": [
+2,
+-2
+],
+"inicio": 5299
+},
+"RRLRRLLLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRRLLLRR": {
+"P": 244,
+"v": [
+-2,
+-2
+],
+"inicio": 1943092
+},
+"RRLRRRLLRRL": {
+"P": 216,
+"v": [
+2,
+-2
+],
+"inicio": 120057
+},
+"RRRLLLRRRLL": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRLR": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRRR": {
+"P": 560,
+"v": [
+2,
+2
+],
+"inicio": 2194238
+},
+"RRRLLRLRRRR": {
+"P": 284,
+"v": [
+2,
+2
+],
+"inicio": 6565
+},
+"RRRLLRRLRRR": {
+"P": 156,
+"v": [
+2,
+-2
+],
+"inicio": 334903
+},
+"RRRLLRRRLRR": {
+"P": 820,
+"v": [
+-6,
+6
+],
+"inicio": 202469
+},
+"RRRLRLLRLLR": {
+"P": 58,
+"v": [
+1,
+-1
+],
+"inicio": 16907
+},
+"RRRLRRLLRLL": {
+"P": 108,
+"v": [
+-2,
+2
+],
+"inicio": 78
+},
+"RRRLRRRLLLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRLLLLLRR": {
+"P": 192,
+"v": [
+2,
+2
+],
+"inicio": 1204
+},
+"RRRRLLLLRLR": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 534
+},
+"RRRRLLLRRRL": {
+"P": 536,
+"v": [
+4,
+-4
+],
+"inicio": 5074
+},
+"RRRRLLRLLLR": {
+"P": 140,
+"v": [
+-2,
+2
+],
+"inicio": 736
+},
+"RRRRLLRLLRL": {
+"P": 98,
+"v": [
+1,
+1
+],
+"inicio": 1189146
+},
+"RRRRLLRLRRR": {
+"P": 1284,
+"v": [
+6,
+6
+],
+"inicio": 19461
+},
+"RRRRLLRRLRR": {
+"P": 132,
+"v": [
+-2,
+2
+],
+"inicio": 146
+},
+"RRRRLRLLRRL": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 308
+},
+"RRRRLRLLRRR": {
+"P": 372,
+"v": [
+2,
+-2
+],
+"inicio": 1301660
+},
+"RRRRLRLRRLR": {
+"P": 148,
+"v": [
+-2,
+2
+],
+"inicio": 22297
+},
+"RRRRLRRRRLL": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRLRRRRLR": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRRLLLLLR": {
+"P": 1200,
+"v": [
+-4,
+-4
+],
+"inicio": 595611
+},
+"RRRRRLLLRRR": {
+"P": 136,
+"v": [
+2,
+2
+],
+"inicio": 143355
+},
+"RRRRRLLRLRR": {
+"P": 1948,
+"v": [
+-8,
+8
+],
+"inicio": 19648
+},
+"RRRRRLRLRLR": {
+"P": 196,
+"v": [
+2,
+-2
+],
+"inicio": 2699
+},
+"RRRRRRLLLLL": {
+"P": 78,
+"v": [
+-1,
+1
+],
+"inicio": 194
+},
+"RRRRRRLLLRR": {
+"P": 144,
+"v": [
+-2,
+-2
+],
+"inicio": 59424
+},
+"RRRRRRLLRLR": {
+"P": 148,
+"v": [
+-2,
+2
+],
+"inicio": 162
+},
+"RRRRRRLRLLR": {
+"P": 152,
+"v": [
+-2,
+2
+],
+"inicio": 673
+},
+"RRRRRRLRLRL": {
+"P": 82,
+"v": [
+-1,
+1
+],
+"inicio": 190
+},
+"RRRRRRRRLLL": {
+"P": 156,
+"v": [
+-2,
+2
+],
+"inicio": 178
+},
+"RRRRRRRRRRL": {
+"P": 164,
+"v": [
+2,
+-2
+],
+"inicio": 246
+},
+"RLLLLRLLLRLL": {
+"P": 256,
+"v": [
+-2,
+-2
+],
+"inicio": 70591
+},
+"RLLLRRLRLRRR": {
+"P": 84,
+"v": [
+-2,
+2
+],
+"inicio": 240
+},
+"RLLRLRLLLRRR": {
+"P": 152,
+"v": [
+2,
+-2
+],
+"inicio": 1798207
+},
+"RLRLLLLLRLLR": {
+"P": 384,
+"v": [
+-4,
+-4
+],
+"inicio": 395
+},
+"RLRLLLLRLLLL": {
+"P": 548,
+"v": [
+-4,
+-4
+],
+"inicio": 236586
+},
+"RLRLLLLRLLLR": {
+"P": 172,
+"v": [
+2,
+-2
+],
+"inicio": 47985
+},
+"RLRLLLRLLLRR": {
+"P": 116,
+"v": [
+2,
+-2
+],
+"inicio": 1255
+},
+"RLRLLLRLLRLL": {
+"P": 132,
+"v": [
+-2,
+2
+],
+"inicio": 59333
+},
+"RLRLLLRLLRRR": {
+"P": 144,
+"v": [
+2,
+2
+],
+"inicio": 105851
+},
+"RLRLLLRRRLLR": {
+"P": 180,
+"v": [
+2,
+2
+],
+"inicio": 163093
+},
+"RLRLLRLLLRLL": {
+"P": 210,
+"v": [
+-1,
+3
+],
+"inicio": 1568
+},
+"RLRLLRLLRLRL": {
+"P": 128,
+"v": [
+-2,
+-2
+],
+"inicio": 55786
+},
+"RLRLLRLLRRRL": {
+"P": 100,
+"v": [
+-2,
+-2
+],
+"inicio": 1282
+},
+"RLRLLRLLRRRR": {
+"P": 100,
+"v": [
+-2,
+2
+],
+"inicio": 9317
+},
+"RLRLLRLRLRRL": {
+"P": 128,
+"v": [
+-2,
+2
+],
+"inicio": 2115
+},
+"RLRLLRRRLLRL": {
+"P": 608,
+"v": [
+-6,
+-6
+],
+"inicio": 15619
+},
+"RLRLLRRRLLRR": {
+"P": 116,
+"v": [
+-2,
+2
+],
+"inicio": 20413
+},
+"RLRLRLLRLLLL": {
+"P": 180,
+"v": [
+2,
+2
+],
+"inicio": 2140138
+},
+"RLRLRLLRLLRL": {
+"P": 320,
+"v": [
+4,
+4
+],
+"inicio": 20946
+},
+"RLRLRLLRLRLR": {
+"P": 146,
+"v": [
+1,
+-3
+],
+"inicio": 21512
+},
+"RLRLRLLRLRRL": {
+"P": 138,
+"v": [
+-3,
+-1
+],
+"inicio": 1294
+},
+"RLRLRLLRRRLL": {
+"P": 484,
+"v": [
+8,
+0
+],
+"inicio": 5957
+},
+"RLRLRLRLRLLL": {
+"P": 104,
+"v": [
+2,
+-2
+],
+"inicio": 3007
+},
+"RLRLRLRLRLLR": {
+"P": 104,
+"v": [
+2,
+-2
+],
+"inicio": 5404
+},
+"RLRLRLRLRLRL": {
+"P": 104,
+"v": [
+-2,
+-2
+],
+"inicio": 9976
+},
+"RLRLRLRLRLRR": {
+"P": 104,
+"v": [
+-2,
+2
+],
+"inicio": 569
+},
+"RLRLRLRLRRLL": {
+"P": 108,
+"v": [
+-2,
+2
+],
+"inicio": 1267
+},
+"RLRLRLRLRRLR": {
+"P": 108,
+"v": [
+-2,
+-2
+],
+"inicio": 1584
+},
+"RLRLRLRRLRLR": {
+"P": 340,
+"v": [
+-4,
+-4
+],
+"inicio": 1314214
+},
+"RLRLRLRRRLLL": {
+"P": 88,
+"v": [
+-2,
+-2
+],
+"inicio": 4252
+},
+"RLRLRLRRRLLR": {
+"P": 88,
+"v": [
+-2,
+-2
+],
+"inicio": 6457
+},
+"RLRLRLRRRLRL": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 3427
+},
+"RLRLRLRRRLRR": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 818
+},
+"RLRLRLRRRRLL": {
+"P": 88,
+"v": [
+-2,
+2
+],
+"inicio": 762
+},
+"RLRLRLRRRRLR": {
+"P": 88,
+"v": [
+-2,
+2
+],
+"inicio": 2870
+},
+"RLRLRLRRRRRL": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 4476
+},
+"RLRLRLRRRRRR": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 3013
+},
+"RLRRLLRLLLLL": {
+"P": 732,
+"v": [
+6,
+-2
+],
+"inicio": 860469
+},
+"RLRRLLRLRLRR": {
+"P": 686,
+"v": [
+-5,
+-7
+],
+"inicio": 555358
+},
+"RLRRLLRRLRRL": {
+"P": 172,
+"v": [
+-2,
+-2
+],
+"inicio": 698149
+},
+"RLRRLLRRLRRR": {
+"P": 168,
+"v": [
+-2,
+-2
+],
+"inicio": 130686
+},
+"RLRRLRLLRLLL": {
+"P": 180,
+"v": [
+-2,
+-2
+],
+"inicio": 809254
+},
+"RLRRLRLLRRLL": {
+"P": 152,
+"v": [
+2,
+-2
+],
+"inicio": 6491
+},
+"RLRRLRLRLRRR": {
+"P": 1062,
+"v": [
+-3,
+11
+],
+"inicio": 48890
+},
+"RLRRRLRLLRLR": {
+"P": 992,
+"v": [
+-8,
+-8
+],
+"inicio": 201038
+},
+"RRLLLLRLRLLR": {
+"P": 176,
+"v": [
+2,
+2
+],
+"inicio": 1482581
+},
+"RRLLLRLLLLLR": {
+"P": 144,
+"v": [
+2,
+2
+],
+"inicio": 606879
+},
+"RRLLLRLLLLRL": {
+"P": 132,
+"v": [
+-2,
+2
+],
+"inicio": 286416
+},
+"RRLLLRLLRLLL": {
+"P": 152,
+"v": [
+2,
+2
+],
+"inicio": 172646
+},
+"RRLLLRLLRRRL": {
+"P": 152,
+"v": [
+-2,
+-2
+],
+"inicio": 44499
+},
+"RRLLLRLRLLLL": {
+"P": 38,
+"v": [
+1,
+-1
+],
+"inicio": 116
+},
+"RRLLLRLRLLLR": {
+"P": 88,
+"v": [
+2,
+2
+],
+"inicio": 1732
+},
+"RRLLLRLRLLRR": {
+"P": 258,
+"v": [
+5,
+-5
+],
+"inicio": 1677
+},
+"RRLLLRLRLRRL": {
+"P": 1968,
+"v": [
+16,
+0
+],
+"inicio": 29890
+},
+"RRLLLRLRRLLL": {
+"P": 42,
+"v": [
+-1,
+1
+],
+"inicio": 117
+},
+"RRLLLRLRRLLR": {
+"P": 398,
+"v": [
+7,
+-7
+],
+"inicio": 577
+},
+"RRLLLRLRRLRL": {
+"P": 206,
+"v": [
+5,
+-5
+],
+"inicio": 166
+},
+"RRLLLRLRRLRR": {
+"P": 100,
+"v": [
+-2,
+-2
+],
+"inicio": 1865
+},
+"RRLLLRRLRLRR": {
+"P": 176,
+"v": [
+2,
+-2
+],
+"inicio": 484707
+},
+"RRLLLRRLRRRL": {
+"P": 192,
+"v": [
+2,
+-2
+],
+"inicio": 243372
+},
+"RRLLLRRLRRRR": {
+"P": 408,
+"v": [
+2,
+-2
+],
+"inicio": 4205
+},
+"RRLLLRRRLLRL": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 2625
+},
+"RRLLLRRRLRRR": {
+"P": 244,
+"v": [
+2,
+0
+],
+"inicio": 1164552
+},
+"RRLLLRRRRLLL": {
+"P": 120,
+"v": [
+2,
+-2
+],
+"inicio": 1660
+},
+"RRLLLRRRRLLR": {
+"P": 208,
+"v": [
+-2,
+2
+],
+"inicio": 245411
+},
+"RRLLLRRRRLRR": {
+"P": 228,
+"v": [
+2,
+-2
+],
+"inicio": 64996
+},
+"RRLLLRRRRRRL": {
+"P": 144,
+"v": [
+-2,
+2
+],
+"inicio": 10651
+},
+"RRLLLRRRRRRR": {
+"P": 272,
+"v": [
+2,
+-2
+],
+"inicio": 4412
+},
+"RRLLRLRLLRLR": {
+"P": 58,
+"v": [
+-1,
+-1
+],
+"inicio": 18272
+},
+"RRLLRLRLLRRL": {
+"P": 46,
+"v": [
+1,
+-1
+],
+"inicio": 54888
+},
+"RRLLRLRLLRRR": {
+"P": 46,
+"v": [
+-1,
+1
+],
+"inicio": 122430
+},
+"RRLLRLRLRLRL": {
+"P": 78,
+"v": [
+1,
+1
+],
+"inicio": 1840445
+},
+"RRLLRLRRRLLL": {
+"P": 42,
+"v": [
+1,
+1
+],
+"inicio": 7447
+},
+"RRLLRLRRRLLR": {
+"P": 42,
+"v": [
+1,
+-1
+],
+"inicio": 296
+},
+"RRLLRLRRRLRL": {
+"P": 42,
+"v": [
+1,
+1
+],
+"inicio": 2503
+},
+"RRLLRLRRRLRR": {
+"P": 42,
+"v": [
+-1,
+1
+],
+"inicio": 510
+},
+"RRLLRLRRRRLL": {
+"P": 108,
+"v": [
+2,
+2
+],
+"inicio": 2744472
+},
+"RRLLRRLLLRRR": {
+"P": 168,
+"v": [
+2,
+2
+],
+"inicio": 387000
+},
+"RRLLRRLLRLRR": {
+"P": 136,
+"v": [
+2,
+-2
+],
+"inicio": 200962
+},
+"RRLLRRLRRRLR": {
+"P": 46,
+"v": [
+1,
+1
+],
+"inicio": 1883
+},
+"RRLRLLRLRRRR": {
+"P": 1272,
+"v": [
+6,
+-6
+],
+"inicio": 117593
+},
+"RRLRLLRRRLLL": {
+"P": 264,
+"v": [
+-2,
+2
+],
+"inicio": 918167
+},
+"RRLRLLRRRLLR": {
+"P": 196,
+"v": [
+-2,
+2
+],
+"inicio": 16274
+},
+"RRLRLLRRRLRL": {
+"P": 196,
+"v": [
+-2,
+-2
+],
+"inicio": 2514819
+},
+"RRLRLLRRRRLL": {
+"P": 1192,
+"v": [
+2,
+-2
+],
+"inicio": 384726
+},
+"RRLRLLRRRRLR": {
+"P": 196,
+"v": [
+2,
+-2
+],
+"inicio": 28438
+},
+"RRLRLLRRRRRL": {
+"P": 196,
+"v": [
+-2,
+2
+],
+"inicio": 14934
+},
+"RRLRLRRLLRRR": {
+"P": 312,
+"v": [
+-2,
+-2
+],
+"inicio": 44842
+},
+"RRLRLRRLRRRR": {
+"P": 156,
+"v": [
+2,
+2
+],
+"inicio": 48715
+},
+"RRLRRLLLLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLLRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLLRRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRLRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRLRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRLRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRLL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRLR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRRL": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRLRRRRRR": {
+"P": 18,
+"v": [
+1,
+-1
+],
+"inicio": 38
+},
+"RRLRRRLLLRRR": {
+"P": 244,
+"v": [
+-2,
+2
+],
+"inicio": 705931
+},
+"RRLRRRLLRRLR": {
+"P": 216,
+"v": [
+2,
+-2
+],
+"inicio": 484717
+},
+"RRLRRRLRRRLR": {
+"P": 384,
+"v": [
+-4,
+4
+],
+"inicio": 256240
+},
+"RRRLLLRRLRRL": {
+"P": 354,
+"v": [
+5,
+-5
+],
+"inicio": 573
+},
+"RRRLLLRRRLLL": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRLLR": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRLRL": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRLRR": {
+"P": 38,
+"v": [
+-1,
+1
+],
+"inicio": 98
+},
+"RRRLLLRRRRRR": {
+"P": 596,
+"v": [
+-2,
+2
+],
+"inicio": 786676
+},
+"RRRLLRLRRRRL": {
+"P": 100,
+"v": [
+-2,
+2
+],
+"inicio": 114
+},
+"RRRLLRLRRRRR": {
+"P": 324,
+"v": [
+2,
+2
+],
+"inicio": 1245618
+},
+"RRRLLRRLRRRR": {
+"P": 164,
+"v": [
+-2,
+2
+],
+"inicio": 277967
+},
+"RRRLLRRRLRRR": {
+"P": 312,
+"v": [
+-2,
+-2
+],
+"inicio": 17289
+},
+"RRRLRLLLRLRL": {
+"P": 208,
+"v": [
+-2,
+2
+],
+"inicio": 2556227
+},
+"RRRLRLLRLLRL": {
+"P": 46,
+"v": [
+1,
+1
+],
+"inicio": 34462
+},
+"RRRLRRLLRLLR": {
+"P": 532,
+"v": [
+4,
+4
+],
+"inicio": 233556
+},
+"RRRLRRLLRLRR": {
+"P": 324,
+"v": [
+2,
+2
+],
+"inicio": 500448
+},
+"RRRLRRLRLLRL": {
+"P": 344,
+"v": [
+4,
+4
+],
+"inicio": 231420
+},
+"RRRLRRLRRLRL": {
+"P": 256,
+"v": [
+-2,
+2
+],
+"inicio": 720369
+},
+"RRRLRRLRRLRR": {
+"P": 224,
+"v": [
+-2,
+-2
+],
+"inicio": 1586676
+},
+"RRRLRRRLLLLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLLLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLLRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLLRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLLRRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRLRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRLL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRLR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRRL": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRLRRRLRRRR": {
+"P": 52,
+"v": [
+2,
+-2
+],
+"inicio": 78
+},
+"RRRRLLLLLRRR": {
+"P": 292,
+"v": [
+-2,
+2
+],
+"inicio": 2430518
+},
+"RRRRLLLRLLRL": {
+"P": 632,
+"v": [
+4,
+-4
+],
+"inicio": 1998009
+},
+"RRRRLLLRRRRL": {
+"P": 92,
+"v": [
+-2,
+2
+],
+"inicio": 114
+},
+"RRRRLLRRLLLR": {
+"P": 264,
+"v": [
+2,
+-2
+],
+"inicio": 2793
+},
+"RRRRLLRRLRRR": {
+"P": 180,
+"v": [
+-2,
+2
+],
+"inicio": 763
+},
+"RRRRLLRRRLRR": {
+"P": 446,
+"v": [
+-3,
+-3
+],
+"inicio": 200021
+},
+"RRRRLRLLRRLL": {
+"P": 172,
+"v": [
+-2,
+2
+],
+"inicio": 2790
+},
+"RRRRLRLRLRRL": {
+"P": 66,
+"v": [
+1,
+1
+],
+"inicio": 69891
+},
+"RRRRLRLRRLRR": {
+"P": 212,
+"v": [
+2,
+2
+],
+"inicio": 681242
+},
+"RRRRLRRLLRLL": {
+"P": 140,
+"v": [
+-2,
+2
+],
+"inicio": 18198
+},
+"RRRRLRRRLLRL": {
+"P": 800,
+"v": [
+-2,
+2
+],
+"inicio": 125602
+},
+"RRRRLRRRRLLL": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRLRRRRLLR": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRLRRRRLRL": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRLRRRRLRR": {
+"P": 68,
+"v": [
+2,
+-2
+],
+"inicio": 102
+},
+"RRRRRLLLLRLR": {
+"P": 164,
+"v": [
+-2,
+2
+],
+"inicio": 194
+},
+"RRRRRLLLRRRR": {
+"P": 144,
+"v": [
+-2,
+-2
+],
+"inicio": 4684
+},
+"RRRRRLLRLLLR": {
+"P": 156,
+"v": [
+-2,
+2
+],
+"inicio": 198
+},
+"RRRRRLLRLLRL": {
+"P": 110,
+"v": [
+1,
+1
+],
+"inicio": 267210
+},
+"RRRRRLLRLRRR": {
+"P": 148,
+"v": [
+2,
+-2
+],
+"inicio": 50776
+},
+"RRRRRLLRRLLL": {
+"P": 434,
+"v": [
+3,
+-3
+],
+"inicio": 32550
+},
+"RRRRRLLRRLRR": {
+"P": 74,
+"v": [
+-1,
+1
+],
+"inicio": 162
+},
+"RRRRRLRLLLLR": {
+"P": 180,
+"v": [
+-2,
+2
+],
+"inicio": 2817858
+},
+"RRRRRLRLRRLR": {
+"P": 164,
+"v": [
+-2,
+2
+],
+"inicio": 190
+},
+"RRRRRLRRRLRL": {
+"P": 244,
+"v": [
+-2,
+-2
+],
+"inicio": 2206727
+},
+"RRRRRLRRRRRL": {
+"P": 84,
+"v": [
+2,
+-2
+],
+"inicio": 126
+},
+"RRRRRRLLLLLR": {
+"P": 884,
+"v": [
+-4,
+4
+],
+"inicio": 287125
+},
+"RRRRRRLLLRLL": {
+"P": 860,
+"v": [
+6,
+6
+],
+"inicio": 1708767
+},
+"RRRRRRLLLRRR": {
+"P": 152,
+"v": [
+-2,
+2
+],
+"inicio": 138363
+},
+"RRRRRRLLRLLL": {
+"P": 98,
+"v": [
+-1,
+1
+],
+"inicio": 560147
+},
+"RRRRRRLRLLRR": {
+"P": 160,
+"v": [
+-2,
+2
+],
+"inicio": 692
+},
+"RRRRRRLRLRRL": {
+"P": 340,
+"v": [
+2,
+-2
+],
+"inicio": 11587
+},
+"RRRRRRLRRLRL": {
+"P": 288,
+"v": [
+2,
+-2
+],
+"inicio": 292252
+},
+"RRRRRRRLLLLL": {
+"P": 172,
+"v": [
+-2,
+2
+],
+"inicio": 210
+},
+"RRRRRRRLLLRR": {
+"P": 160,
+"v": [
+-2,
+2
+],
+"inicio": 401500
+},
+"RRRRRRRLLRLR": {
+"P": 164,
+"v": [
+-2,
+2
+],
+"inicio": 178
+},
+"RRRRRRRLRLLR": {
+"P": 168,
+"v": [
+2,
+2
+],
+"inicio": 1499
+},
+"RRRRRRRLRLRL": {
+"P": 180,
+"v": [
+-2,
+2
+],
+"inicio": 206
+},
+"RRRRRRRLRRLL": {
+"P": 176,
+"v": [
+-2,
+2
+],
+"inicio": 9879
+},
+"RRRRRRRRRLLL": {
+"P": 172,
+"v": [
+-2,
+2
+],
+"inicio": 194
+},
+"RRRRRRRRRRRL": {
+"P": 180,
+"v": [
+2,
+-2
+],
+"inicio": 270
+}
+}

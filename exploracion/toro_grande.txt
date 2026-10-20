@@ -1,0 +1,21 @@
+toro 64x64, 50000000 pasos: episodios de autopista=0, fraccion del tiempo en autopista=0.000, veces que el tablero quedo en blanco=0
+  episodio 1: inicio=9976 duracion=4327 pasos (41.6 periodos) vueltas_al_toro=0.82
+  episodio 2: inicio=24866 duracion=4270 pasos (41.1 periodos) vueltas_al_toro=0.81
+toro 101x101, 50000000 pasos: episodios de autopista=2, fraccion del tiempo en autopista=0.000, veces que el tablero quedo en blanco=0
+  episodio 1: inicio=9976 duracion=5689 pasos (54.7 periodos) vueltas_al_toro=0.85
+  episodio 2: inicio=17382 duracion=2451 pasos (23.6 periodos) vueltas_al_toro=0.37
+  episodio 3: inicio=45404 duracion=2422 pasos (23.3 periodos) vueltas_al_toro=0.36
+toro 128x128, 50000000 pasos: episodios de autopista=3, fraccion del tiempo en autopista=0.000, veces que el tablero quedo en blanco=0
+  episodio 1: inicio=9976 duracion=12345 pasos (118.7 periodos) vueltas_al_toro=0.93
+  episodio 2: inicio=24038 duracion=5779 pasos (55.6 periodos) vueltas_al_toro=0.43
+  episodio 3: inicio=38801 duracion=4000 pasos (38.5 periodos) vueltas_al_toro=0.30
+  episodio 4: inicio=58176 duracion=5986 pasos (57.6 periodos) vueltas_al_toro=0.45
+  episodio 5: inicio=73382 duracion=3569 pasos (34.3 periodos) vueltas_al_toro=0.27
+  episodio 6: inicio=104189 duracion=4489 pasos (43.2 periodos) vueltas_al_toro=0.34
+  episodio 7: inicio=113313 duracion=5248 pasos (50.5 periodos) vueltas_al_toro=0.39
+  episodio 8: inicio=120108 duracion=5684 pasos (54.7 periodos) vueltas_al_toro=0.43
+  episodio 9: inicio=188625 duracion=3363 pasos (32.3 periodos) vueltas_al_toro=0.25
+  episodio 10: inicio=210476 duracion=5773 pasos (55.5 periodos) vueltas_al_toro=0.43
+  episodio 11: inicio=277396 duracion=2975 pasos (28.6 periodos) vueltas_al_toro=0.22
+  episodio 12: inicio=344778 duracion=2782 pasos (26.8 periodos) vueltas_al_toro=0.21
+toro 256x256, 50000000 pasos: episodios de autopista=13, fraccion del tiempo en autopista=0.001, veces que el tablero quedo en blanco=0

@@ -1,0 +1,4 @@
+Original  (primos 3..101)  : pares=300 denominadores=24 rho=-0.188  p_bloques=0.058  rho_agregado_por_q=-0.433 (p=0.044, n=22)
+Réplica 1 (primos 103..233): pares=300 denominadores=24 rho=0.060  p_bloques=0.658  rho_agregado_por_q=-0.174 (p=0.440, n=22)
+Réplica 2 (primos 239..389): pares=300 denominadores=24 rho=0.055  p_bloques=0.446  rho_agregado_por_q=0.174 (p=0.439, n=22)
+Réplica 3 (primos 397..547): pares=300 denominadores=24 rho=0.021  p_bloques=0.850  rho_agregado_por_q=0.073 (p=0.748, n=22)

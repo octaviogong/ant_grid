@@ -1,0 +1,4279 @@
+[
+{
+"d": 3,
+"n": 2,
+"regla": "DU",
+"dim_efectiva": 2,
+"pasos": 1673068,
+"tipo": "autopista",
+"P": 104,
+"v": [
+-2,
+0,
+2
+],
+"inicio": 9976,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 2,
+"regla": "DL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 32,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DDU",
+"dim_efectiva": 2,
+"pasos": 576005,
+"tipo": "autopista",
+"P": 18,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 38,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 324.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 234.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DUL",
+"dim_efectiva": 3,
+"pasos": 1151981,
+"tipo": "autopista",
+"P": 72,
+"v": [
+2,
+2,
+-2
+],
+"inicio": 0,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DLU",
+"dim_efectiva": 3,
+"pasos": 704306,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+-1,
+0
+],
+"inicio": 338,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 3,
+"regla": "DLR",
+"dim_efectiva": 3,
+"pasos": 448632,
+"tipo": "autopista",
+"P": 14,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 673,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDDU",
+"dim_efectiva": 2,
+"pasos": 832001,
+"tipo": "autopista",
+"P": 52,
+"v": [
+-2,
+0,
+-2
+],
+"inicio": 78,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDUD",
+"dim_efectiva": 2,
+"pasos": 3323205,
+"tipo": "autopista",
+"P": 384,
+"v": [
+4,
+0,
+4
+],
+"inicio": 256240,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 113.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDUL",
+"dim_efectiva": 3,
+"pasos": 512013,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0
+],
+"inicio": 16,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDLU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 103.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 64,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DDLR",
+"dim_efectiva": 3,
+"pasos": 704435,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0
+],
+"inicio": 477,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUDD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 247.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUDU",
+"dim_efectiva": 2,
+"pasos": 1673068,
+"tipo": "autopista",
+"P": 104,
+"v": [
+-2,
+0,
+2
+],
+"inicio": 9976,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUDL",
+"dim_efectiva": 3,
+"pasos": 501327,
+"tipo": "autopista",
+"P": 188,
+"v": [
+0,
+0,
+-12
+],
+"inicio": 15,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 353.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 236.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DUUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 98.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DULD",
+"dim_efectiva": 3,
+"pasos": 11309252,
+"tipo": "autopista",
+"P": 46,
+"v": [
+0,
+1,
+1
+],
+"inicio": 9841823,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DULU",
+"dim_efectiva": 3,
+"pasos": 512005,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0
+],
+"inicio": 0,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DULL",
+"dim_efectiva": 3,
+"pasos": 1631852,
+"tipo": "autopista",
+"P": 102,
+"v": [
+2,
+-2,
+-2
+],
+"inicio": 20,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DULR",
+"dim_efectiva": 3,
+"pasos": 989231,
+"tipo": "autopista",
+"P": 28,
+"v": [
+0,
+-1,
+-1
+],
+"inicio": 93475,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLDD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLDU",
+"dim_efectiva": 3,
+"pasos": 967670,
+"tipo": "autopista",
+"P": 30,
+"v": [
+-1,
+1,
+0
+],
+"inicio": 7718,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 32,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLDR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 110.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLUD",
+"dim_efectiva": 3,
+"pasos": 704291,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0
+],
+"inicio": 312,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLUU",
+"dim_efectiva": 3,
+"pasos": 706871,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1
+],
+"inicio": 2874,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLUL",
+"dim_efectiva": 3,
+"pasos": 704078,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1
+],
+"inicio": 92,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLUR",
+"dim_efectiva": 3,
+"pasos": 704033,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+1
+],
+"inicio": 52,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 168,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLLU",
+"dim_efectiva": 3,
+"pasos": 832005,
+"tipo": "autopista",
+"P": 26,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 26,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLLR",
+"dim_efectiva": 3,
+"pasos": 704284,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1
+],
+"inicio": 335,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLRD",
+"dim_efectiva": 3,
+"pasos": 448259,
+"tipo": "autopista",
+"P": 14,
+"v": [
+1,
+0,
+1
+],
+"inicio": 286,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 78.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLRL",
+"dim_efectiva": 3,
+"pasos": 18652045,
+"tipo": "autopista",
+"P": 114,
+"v": [
+2,
+-2,
+-2
+],
+"inicio": 16831328,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 4,
+"regla": "DLRR",
+"dim_efectiva": 3,
+"pasos": 650131,
+"tipo": "autopista",
+"P": 40,
+"v": [
+0,
+2,
+0
+],
+"inicio": 10217,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDDU",
+"dim_efectiva": 2,
+"pasos": 1087997,
+"tipo": "autopista",
+"P": 68,
+"v": [
+-2,
+0,
+-2
+],
+"inicio": 102,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 240,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 275.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 17.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDUL",
+"dim_efectiva": 3,
+"pasos": 768017,
+"tipo": "autopista",
+"P": 48,
+"v": [
+2,
+0,
+0
+],
+"inicio": 20,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 240,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDLU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 98.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 5110,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDDLR",
+"dim_efectiva": 3,
+"pasos": 960639,
+"tipo": "autopista",
+"P": 30,
+"v": [
+1,
+1,
+0
+],
+"inicio": 677,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUDD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 915.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUDU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 271.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 137.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 16.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 17.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDUUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 68.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDULD",
+"dim_efectiva": 3,
+"pasos": 512013,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0
+],
+"inicio": 16,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDULU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 82.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDULL",
+"dim_efectiva": 3,
+"pasos": 704312,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0
+],
+"inicio": 371,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDULR",
+"dim_efectiva": 3,
+"pasos": 1439948,
+"tipo": "autopista",
+"P": 90,
+"v": [
+-2,
+-2,
+2
+],
+"inicio": 1,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLDD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 240,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLDU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 127.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 1020,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLDR",
+"dim_efectiva": 3,
+"pasos": 704918,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+-1
+],
+"inicio": 994,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLUD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 167.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLUU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 54.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 97.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLUR",
+"dim_efectiva": 3,
+"pasos": 707558,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+0,
+1
+],
+"inicio": 3643,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 5110,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLLU",
+"dim_efectiva": 3,
+"pasos": 4193615,
+"tipo": "autopista",
+"P": 456,
+"v": [
+4,
+-4,
+4
+],
+"inicio": 547542,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 5110,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLLR",
+"dim_efectiva": 3,
+"pasos": 967359,
+"tipo": "autopista",
+"P": 30,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 7576,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLRD",
+"dim_efectiva": 3,
+"pasos": 704353,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 392,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 71.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLRL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 29829.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DDLRR",
+"dim_efectiva": 3,
+"pasos": 705100,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+1,
+0
+],
+"inicio": 1183,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDDD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 212.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDDU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 276.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDDL",
+"dim_efectiva": 3,
+"pasos": 2495930,
+"tipo": "autopista",
+"P": 156,
+"v": [
+2,
+2,
+2
+],
+"inicio": 129,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 268.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 292.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDUL",
+"dim_efectiva": 3,
+"pasos": 970667,
+"tipo": "autopista",
+"P": 364,
+"v": [
+0,
+0,
+-12
+],
+"inicio": 47,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDLD",
+"dim_efectiva": 3,
+"pasos": 501327,
+"tipo": "autopista",
+"P": 188,
+"v": [
+0,
+0,
+-12
+],
+"inicio": 15,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDLU",
+"dim_efectiva": 3,
+"pasos": 501327,
+"tipo": "autopista",
+"P": 188,
+"v": [
+0,
+0,
+-12
+],
+"inicio": 16,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 125.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUDLR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 128.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUDD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 16.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUDU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 255.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 84.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 17.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 216.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUUUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 94.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUULD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 96.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUULU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 98.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUULL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 122.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DUULR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "autopista",
+"P": 168,
+"v": [
+2,
+2,
+2
+],
+"inicio": 19766924,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 2847.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULDD",
+"dim_efectiva": 3,
+"pasos": 2270099,
+"tipo": "autopista",
+"P": 234,
+"v": [
+4,
+-4,
+-4
+],
+"inicio": 399624,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULDU",
+"dim_efectiva": 3,
+"pasos": 1151981,
+"tipo": "autopista",
+"P": 72,
+"v": [
+2,
+2,
+-2
+],
+"inicio": 0,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 126.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULDR",
+"dim_efectiva": 3,
+"pasos": 1711985,
+"tipo": "autopista",
+"P": 214,
+"v": [
+4,
+-1,
+1
+],
+"inicio": 0,
+"clase": [
+4,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULUD",
+"dim_efectiva": 3,
+"pasos": 512005,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0
+],
+"inicio": 0,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULUU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 102.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 143.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULUR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 137.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULLD",
+"dim_efectiva": 3,
+"pasos": 1631852,
+"tipo": "autopista",
+"P": 102,
+"v": [
+2,
+-2,
+-2
+],
+"inicio": 20,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULLU",
+"dim_efectiva": 3,
+"pasos": 1151956,
+"tipo": "autopista",
+"P": 72,
+"v": [
+2,
+-2,
+-2
+],
+"inicio": 20,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULLL",
+"dim_efectiva": 3,
+"pasos": 703984,
+"tipo": "autopista",
+"P": 66,
+"v": [
+0,
+-3,
+-3
+],
+"inicio": 20,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULLR",
+"dim_efectiva": 3,
+"pasos": 1847806,
+"tipo": "autopista",
+"P": 462,
+"v": [
+8,
+-8,
+8
+],
+"inicio": 57,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULRD",
+"dim_efectiva": 3,
+"pasos": 1018940,
+"tipo": "autopista",
+"P": 28,
+"v": [
+1,
+1,
+0
+],
+"inicio": 123328,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULRU",
+"dim_efectiva": 3,
+"pasos": 576446,
+"tipo": "autopista",
+"P": 36,
+"v": [
+0,
+0,
+-2
+],
+"inicio": 534,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULRL",
+"dim_efectiva": 3,
+"pasos": 898798,
+"tipo": "autopista",
+"P": 28,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 2936,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DULRR",
+"dim_efectiva": 3,
+"pasos": 640539,
+"tipo": "autopista",
+"P": 40,
+"v": [
+-2,
+0,
+0
+],
+"inicio": 586,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDDD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 240,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDDU",
+"dim_efectiva": 3,
+"pasos": 963963,
+"tipo": "autopista",
+"P": 60,
+"v": [
+0,
+0,
+-2
+],
+"inicio": 4141,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 3230,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDDR",
+"dim_efectiva": 3,
+"pasos": 961201,
+"tipo": "autopista",
+"P": 30,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 1197,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDUD",
+"dim_efectiva": 3,
+"pasos": 960029,
+"tipo": "autopista",
+"P": 30,
+"v": [
+0,
+-1,
+-1
+],
+"inicio": 62,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDUU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 75.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDUL",
+"dim_efectiva": 3,
+"pasos": 1056420,
+"tipo": "autopista",
+"P": 66,
+"v": [
+-2,
+2,
+-2
+],
+"inicio": 560,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDUR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 86.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 320,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDLU",
+"dim_efectiva": 3,
+"pasos": 1688504,
+"tipo": "autopista",
+"P": 50,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 89202,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 1020,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDLR",
+"dim_efectiva": 3,
+"pasos": 975981,
+"tipo": "autopista",
+"P": 60,
+"v": [
+2,
+0,
+0
+],
+"inicio": 16126,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDRD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 82.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 91.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDRL",
+"dim_efectiva": 3,
+"pasos": 9535705,
+"tipo": "autopista",
+"P": 2220,
+"v": [
+8,
+-8,
+-8
+],
+"inicio": 671955,
+"clase": [
+1,
+1,
+1
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLDRR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 132.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUDD",
+"dim_efectiva": 3,
+"pasos": 704642,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+-1,
+0
+],
+"inicio": 751,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUDU",
+"dim_efectiva": 3,
+"pasos": 704165,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 234,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUDL",
+"dim_efectiva": 3,
+"pasos": 704923,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+1
+],
+"inicio": 1043,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUDR",
+"dim_efectiva": 3,
+"pasos": 704220,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+-1,
+0
+],
+"inicio": 294,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUUD",
+"dim_efectiva": 3,
+"pasos": 705869,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+-1,
+-1
+],
+"inicio": 1954,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUUU",
+"dim_efectiva": 3,
+"pasos": 707058,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+-1
+],
+"inicio": 3244,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUUL",
+"dim_efectiva": 3,
+"pasos": 576198,
+"tipo": "autopista",
+"P": 18,
+"v": [
+-1,
+0,
+-1
+],
+"inicio": 258,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLUUR",
+"dim_efectiva": 3,
+"pasos": 705113,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+-1,
+-1
+],
+"inicio": 1211,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLULD",
+"dim_efectiva": 3,
+"pasos": 704025,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+0,
+1
+],
+"inicio": 46,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLULU",
+"dim_efectiva": 3,
+"pasos": 704294,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+1,
+0
+],
+"inicio": 368,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLULL",
+"dim_efectiva": 3,
+"pasos": 704349,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 419,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLULR",
+"dim_efectiva": 3,
+"pasos": 704150,
+"tipo": "autopista",
+"P": 22,
+"v": [
+-1,
+-1,
+0
+],
+"inicio": 224,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLURD",
+"dim_efectiva": 3,
+"pasos": 704037,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+1
+],
+"inicio": 56,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLURU",
+"dim_efectiva": 3,
+"pasos": 704025,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+1
+],
+"inicio": 44,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLURL",
+"dim_efectiva": 3,
+"pasos": 704707,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0
+],
+"inicio": 748,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLURR",
+"dim_efectiva": 3,
+"pasos": 704134,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1
+],
+"inicio": 203,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLDD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 5110,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLDU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 82.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 3230,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLDR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 78.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLUD",
+"dim_efectiva": 3,
+"pasos": 832005,
+"tipo": "autopista",
+"P": 26,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 26,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLUU",
+"dim_efectiva": 3,
+"pasos": 832084,
+"tipo": "autopista",
+"P": 26,
+"v": [
+-1,
+1,
+0
+],
+"inicio": 120,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLUL",
+"dim_efectiva": 3,
+"pasos": 832030,
+"tipo": "autopista",
+"P": 26,
+"v": [
+1,
+1,
+0
+],
+"inicio": 51,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLUR",
+"dim_efectiva": 3,
+"pasos": 832046,
+"tipo": "autopista",
+"P": 26,
+"v": [
+1,
+1,
+0
+],
+"inicio": 98,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 2600,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLLU",
+"dim_efectiva": 3,
+"pasos": 960005,
+"tipo": "autopista",
+"P": 30,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 30,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 240,
+"v": [
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLLR",
+"dim_efectiva": 3,
+"pasos": 960168,
+"tipo": "autopista",
+"P": 30,
+"v": [
+0,
+-1,
+1
+],
+"inicio": 194,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLRD",
+"dim_efectiva": 3,
+"pasos": 3355991,
+"tipo": "autopista",
+"P": 514,
+"v": [
+-5,
+0,
+5
+],
+"inicio": 67937,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 72.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLRL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 90.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLLRR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 82.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRDD",
+"dim_efectiva": 3,
+"pasos": 448147,
+"tipo": "autopista",
+"P": 14,
+"v": [
+1,
+-1,
+0
+],
+"inicio": 165,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRDU",
+"dim_efectiva": 3,
+"pasos": 448218,
+"tipo": "autopista",
+"P": 14,
+"v": [
+0,
+-1,
+-1
+],
+"inicio": 230,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRDL",
+"dim_efectiva": 3,
+"pasos": 448155,
+"tipo": "autopista",
+"P": 14,
+"v": [
+1,
+-1,
+0
+],
+"inicio": 210,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRDR",
+"dim_efectiva": 3,
+"pasos": 448315,
+"tipo": "autopista",
+"P": 14,
+"v": [
+1,
+0,
+-1
+],
+"inicio": 349,
+"clase": [
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRUD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 100.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRUU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 72.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 83.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRUR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 78.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "autopista",
+"P": 104,
+"v": [
+0,
+0,
+-2
+],
+"inicio": 19850478,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 2869.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRLU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 87.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 83.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRLR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 102.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRRD",
+"dim_efectiva": 3,
+"pasos": 645463,
+"tipo": "autopista",
+"P": 40,
+"v": [
+0,
+0,
+-2
+],
+"inicio": 5409,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 84.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRRL",
+"dim_efectiva": 3,
+"pasos": 997002,
+"tipo": "autopista",
+"P": 112,
+"v": [
+-4,
+0,
+0
+],
+"inicio": 101477,
+"clase": [
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 3,
+"n": 5,
+"regla": "DLRRR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 84.0
+},
+{
+"d": 4,
+"n": 2,
+"regla": "DU",
+"dim_efectiva": 2,
+"pasos": 1673068,
+"tipo": "autopista",
+"P": 104,
+"v": [
+-2,
+0,
+2,
+0
+],
+"inicio": 9976,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 2,
+"regla": "DL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 32,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DDU",
+"dim_efectiva": 2,
+"pasos": 576005,
+"tipo": "autopista",
+"P": 18,
+"v": [
+-1,
+0,
+-1,
+0
+],
+"inicio": 38,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 324.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 234.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DUL",
+"dim_efectiva": 3,
+"pasos": 1151981,
+"tipo": "autopista",
+"P": 72,
+"v": [
+2,
+2,
+-2,
+0
+],
+"inicio": 0,
+"clase": [
+1,
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DLU",
+"dim_efectiva": 3,
+"pasos": 704306,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+-1,
+0,
+0
+],
+"inicio": 338,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 132,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DLR",
+"dim_efectiva": 3,
+"pasos": 448632,
+"tipo": "autopista",
+"P": 14,
+"v": [
+0,
+-1,
+1,
+0
+],
+"inicio": 673,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 3,
+"regla": "DLW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDDU",
+"dim_efectiva": 2,
+"pasos": 832001,
+"tipo": "autopista",
+"P": 52,
+"v": [
+-2,
+0,
+-2,
+0
+],
+"inicio": 78,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDUD",
+"dim_efectiva": 2,
+"pasos": 3323205,
+"tipo": "autopista",
+"P": 384,
+"v": [
+4,
+0,
+4,
+0
+],
+"inicio": 256240,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 113.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDUL",
+"dim_efectiva": 3,
+"pasos": 512013,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0,
+0
+],
+"inicio": 16,
+"clase": [
+1,
+0,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDLU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 103.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 64,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDLR",
+"dim_efectiva": 3,
+"pasos": 704435,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0,
+0
+],
+"inicio": 477,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DDLW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUDD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 247.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUDU",
+"dim_efectiva": 2,
+"pasos": 1673068,
+"tipo": "autopista",
+"P": 104,
+"v": [
+-2,
+0,
+2,
+0
+],
+"inicio": 9976,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUDL",
+"dim_efectiva": 3,
+"pasos": 501327,
+"tipo": "autopista",
+"P": 188,
+"v": [
+0,
+0,
+-12,
+0
+],
+"inicio": 15,
+"clase": [
+1,
+0,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUUD",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 353.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUUU",
+"dim_efectiva": 2,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 236.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DUUL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 98.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DULD",
+"dim_efectiva": 3,
+"pasos": 11309252,
+"tipo": "autopista",
+"P": 46,
+"v": [
+0,
+1,
+1,
+0
+],
+"inicio": 9841823,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DULU",
+"dim_efectiva": 3,
+"pasos": 512005,
+"tipo": "autopista",
+"P": 32,
+"v": [
+2,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": [
+1,
+0,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DULL",
+"dim_efectiva": 3,
+"pasos": 1631852,
+"tipo": "autopista",
+"P": 102,
+"v": [
+2,
+-2,
+-2,
+0
+],
+"inicio": 20,
+"clase": [
+1,
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DULR",
+"dim_efectiva": 3,
+"pasos": 989231,
+"tipo": "autopista",
+"P": 28,
+"v": [
+0,
+-1,
+-1,
+0
+],
+"inicio": 93475,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DULW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 9260.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLDD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLDU",
+"dim_efectiva": 3,
+"pasos": 967670,
+"tipo": "autopista",
+"P": 30,
+"v": [
+-1,
+1,
+0,
+0
+],
+"inicio": 7718,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLDL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 32,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLDR",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 110.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLDW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLUD",
+"dim_efectiva": 3,
+"pasos": 704291,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+1,
+0,
+0
+],
+"inicio": 312,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLUU",
+"dim_efectiva": 3,
+"pasos": 706871,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1,
+0
+],
+"inicio": 2874,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLUL",
+"dim_efectiva": 3,
+"pasos": 704078,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1,
+0
+],
+"inicio": 92,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLUR",
+"dim_efectiva": 3,
+"pasos": 704033,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+1,
+1,
+0
+],
+"inicio": 52,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLUW",
+"dim_efectiva": 4,
+"pasos": 704005,
+"tipo": "autopista",
+"P": 22,
+"v": [
+0,
+-1,
+0,
+1
+],
+"inicio": 16,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLLD",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 168,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLLU",
+"dim_efectiva": 3,
+"pasos": 832005,
+"tipo": "autopista",
+"P": 26,
+"v": [
+0,
+-1,
+1,
+0
+],
+"inicio": 26,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLLL",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "ciclo",
+"P": 336,
+"v": [
+0,
+0,
+0,
+0
+],
+"inicio": 0,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLLR",
+"dim_efectiva": 3,
+"pasos": 704284,
+"tipo": "autopista",
+"P": 22,
+"v": [
+1,
+0,
+-1,
+0
+],
+"inicio": 335,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLLW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLRD",
+"dim_efectiva": 3,
+"pasos": 448259,
+"tipo": "autopista",
+"P": 14,
+"v": [
+1,
+0,
+1,
+0
+],
+"inicio": 286,
+"clase": [
+1,
+1,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLRU",
+"dim_efectiva": 3,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 78.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLRL",
+"dim_efectiva": 3,
+"pasos": 18652045,
+"tipo": "autopista",
+"P": 114,
+"v": [
+2,
+-2,
+-2,
+0
+],
+"inicio": 16831328,
+"clase": [
+1,
+1,
+1,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLRR",
+"dim_efectiva": 3,
+"pasos": 650131,
+"tipo": "autopista",
+"P": 40,
+"v": [
+0,
+2,
+0,
+0
+],
+"inicio": 10217,
+"clase": [
+1,
+0,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLRW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 301.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWD",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWU",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 199.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWL",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWR",
+"dim_efectiva": 4,
+"pasos": 640164,
+"tipo": "autopista",
+"P": 40,
+"v": [
+0,
+0,
+-2,
+0
+],
+"inicio": 181,
+"clase": [
+1,
+0,
+0,
+0
+],
+"alcance_final": 32000.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWW",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 1.0
+},
+{
+"d": 4,
+"n": 4,
+"regla": "DLWX",
+"dim_efectiva": 4,
+"pasos": 20000000,
+"tipo": "sin patrón",
+"P": null,
+"v": null,
+"inicio": null,
+"clase": null,
+"alcance_final": 228.0
+}
+]
