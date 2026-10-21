@@ -1,6 +1,7 @@
 import Hormiga.Certificados
 import Hormiga.Ejemplos
 import Hormiga.NoDiagonales
+import Hormiga.HerenciaTeorema
 open Hormiga
 
 #check @ley_m5
@@ -15,3 +16,13 @@ open Hormiga
 #check @nd_RRLLRLLRLRL
 #print axioms nd_RRLLRLLRLRL
 #print axioms autopista_desde_blancoH
+-- Teorema de herencia por prefijo
+#check @herencia
+#check @herencia_RnL
+#check @herencia_palabra
+#check @herencia_palabra_RnL
+#print axioms herencia
+#print axioms herencia_RnL
+#print axioms verificaU_ok
+#print axioms acople_tray
+#print axioms proy_tray

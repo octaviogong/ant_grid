@@ -6,3 +6,7 @@ import Hormiga.Certificados
 import Hormiga.Ejemplos
 import Hormiga.Rapido
 import Hormiga.NoDiagonales
+import Hormiga.Herencia
+import Hormiga.SimbolicoU
+import Hormiga.HerenciaCert
+import Hormiga.HerenciaTeorema

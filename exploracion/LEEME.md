@@ -71,3 +71,9 @@ cuerpo gira 90°: R/L (derecha/izquierda), U/D (arriba/abajo) y W/X (cuarto eje)
 | `ciclo_nd.c` | Pasos exactos hasta volver al vacío (ciclos de 4D: entre 8,400 y 415,536). |
 | `robustez_nd.py` | 30 tableros iniciales al azar por regla: ¿mismo patrón que desde el vacío? |
 | `verifica_nodiag.py` | Re-verificación de las autopistas no diagonales del plano con 20 millones de pasos. |
+
+## Ángulos (`angulos/`)
+
+Reglas escritas como la codificación de una rotación por α (α = 1/φ² da la palabra de Fibonacci, el ángulo
+dorado). Las autopistas aparecen en "lenguas" alrededor de α = 1/(n+1), heredadas de RⁿL; el dorado y el plata
+caen en los huecos. De aquí salió el teorema de herencia por prefijo (`../herencia/`). Ver `angulos/LEEME.md`.
